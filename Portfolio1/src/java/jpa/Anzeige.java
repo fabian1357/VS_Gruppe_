@@ -112,6 +112,7 @@ public class Anzeige implements Serializable{
     public void setPostleitzahl(long Postleitzahl) {
         this.Postleitzahl = Postleitzahl;
     }
+    //Michi voll cool
 
     public void setOrt(String Ort) {
         this.Ort = Ort;
